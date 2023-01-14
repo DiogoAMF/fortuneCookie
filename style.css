@@ -10,7 +10,6 @@
 
 body {
   background: linear-gradient(45deg, #190361 0%, #BB00FF 100%);
-  animation: gradient 10s ease infinite;
   height: 100vh;
   display: grid;
   place-items: center;
